@@ -1,4 +1,4 @@
-# Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 # Name : SANGAVI SURESH
 # REG NO :212222230130
